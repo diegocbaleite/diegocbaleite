@@ -1,6 +1,6 @@
 - 👋 Olá Sou Diego Assunção 
 - 👀 Estudante de FrontEnd
-- 🌱 Atualmente estou aprendendo PHP 
+- 🌱 Atualmente estudando BackEnd PHP 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
