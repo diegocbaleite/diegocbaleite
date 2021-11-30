@@ -1,10 +1,6 @@
 - 👋 Olá Sou Diego Assunção 
 - 🖥️📚 Estudante de FrontEnd
 - 📖 Atualmente estudando BackEnd PHP 
-- Meu <img align="center" alt="html5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/diego-assun%C3%A7%C3%A3o-204a6214a)
-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-- Meu ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 <div align="center">
   <a href="https://github.com/diegocbaleite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocbaleite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
