@@ -1,6 +1,6 @@
-- 👋 Olá Sou Diego Assunção 
-- 🖥️📚 Estudante de FrontEnd
-- 📖 Atualmente estudando BackEnd Node 
+- 👋 Olá Sou Diego Assunção.
+- 🖥️📚 Estudante de FrontEnd.
+- 📖 Atualmente estudando BackEnd Node. 
 <div align="center">
   <a href="https://github.com/diegocbaleite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocbaleite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
