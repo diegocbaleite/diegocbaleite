@@ -1,5 +1,5 @@
 - 👋 Olá Sou Diego Assunção.
-- 🖥️📚 Estudante de FrontEnd e BackEnd Java.
+- 🖥️📚 Estudante de FrontEnd e BackEnd Java, framework Spring Boot.
 - 📖  "Profissional de TI, envolvido em um projeto da SECITECI, Gestão de Veículos Escolares." 
 <div align="center">
   <a href="https://github.com/diegocbaleite">
