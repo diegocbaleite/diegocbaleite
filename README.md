@@ -2,7 +2,6 @@
 - 🖥️📚 Estudante de FrontEnd e BackEnd Java, framework Spring Boot.
 - 📖 Profissional de TI, envolvido em um projeto da SECITECI, Gestão de Veículos Escolares.
 <div align="center">
-  <a href="https://github.com/diegocbaleite">
     ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocbaleiteanuraghazra&show_icons=true&theme=transparent)
  
 <div style="display: inline_block"><br>
