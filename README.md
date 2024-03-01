@@ -1,6 +1,6 @@
 - 👋 Olá Sou Diego Assunção.
-- 🖥️📚 Estudante de FrontEnd e BackEnd Java, framework Spring Boot.
-- 📖 Profissional de TI, envolvido em um projeto da SECITECI, Gestão de Veículos Escolares.
+- 🖥️📚 Estudante de FrontEnd e BackEnd Java, PHP e framework Spring Boot.
+- 📖 Profissional de TI, estagiário no gabinete do governado do estado de Mato Grosso.
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocbaleite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
