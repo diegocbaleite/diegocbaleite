@@ -1,6 +1,6 @@
 - 👋 Olá Sou Diego Assunção.
 - 🖥️📚 Estudante Full Stack Java, Spring Boot, PHP e framework Laravel.
-- 📖 Profissional de TI, estagiário no gabinete do governador de estado de Mato Grosso.
+- 📖 Profissional de TI e estagiário no gabinete do governador do estado de Mato Grosso.
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocbaleite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
