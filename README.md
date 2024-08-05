@@ -1,5 +1,5 @@
 - 👋 Olá Sou Diego Assunção.
-- 🖥️📚 Estudante Full Stack Java, Spring Boot, PHP e framework Laravel.
+- 🖥️📚 Estudante Full Stack Java, PHP e os frameworks Spring Boot e Laravel.
 - 📖 Profissional de TI e estagiário no gabinete do governo do estado de Mato Grosso.
 <div>
 <a href="https://github.com/seu-usuário-aqui">
