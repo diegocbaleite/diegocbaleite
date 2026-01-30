@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Diego Assunção
 
 🖥️📚 Estudante de **Desenvolvimento Full Stack Java**, com foco em **Spring Boot**, **React** e **bancos de dados relacionais e não relacionais**.  
-💼 Atuo como **Programador Júnior** na **SEFAZ – Secretaria de Fazenda**, no **Governo do Estado de Mato Grosso**.  
+💼 Atuo como **Programador** na **SEFAZ – Secretaria de Fazenda**, no **Governo do Estado de Mato Grosso**.  
 🚀 Apaixonado por tecnologia, estou sempre em busca de **novos conhecimentos** e **desafios** na área de TI.
 
 ## 💻 Tecnologias
