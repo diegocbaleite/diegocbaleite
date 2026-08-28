@@ -1,17 +1,15 @@
 ## 👋 Olá! Eu sou o Diego Assunção
 
-🖥️📚 Estudante de **Desenvolvimento Full Stack Java**, com foco em **Spring Boot**, **React** e **bancos de dados relacionais e não relacionais**.  
-💼 Atuo como **Programador** na **SEFAZ – Secretaria de Fazenda**, no **Governo do Estado de Mato Grosso**.  
-🚀 Apaixonado por tecnologia, estou sempre em busca de **novos conhecimentos** e **desafios** na área de TI.
+💻 **Desenvolvedor Full Stack** com experiência no desenvolvimento e manutenção de sistemas, utilizando **Java, Spring Boot, React e bancos de dados relacionais e não relacionais**.
+
+💼 Atualmente atuo como **Programador na SEFAZ – Secretaria de Fazenda**, no **Governo do Estado de Mato Grosso**.
+
+🚀 Apaixonado por tecnologia e desenvolvimento de software, busco constantemente **aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver soluções eficientes para diferentes desafios**.
 
 ## 💻 Tecnologias
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,postgres,mysql,git,docker,postman&perline=14)](https://skillicons.dev)
+
 </div>
