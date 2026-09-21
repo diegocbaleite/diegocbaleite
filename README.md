@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack | Java • Spring Boot • React
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+React;Construindo+APIs+REST+e+aplica%C3%A7%C3%B5es+backend;Sempre+evoluindo+como+desenvolvedor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+React;Construindo+APIs+REST+e+aplica%C3%A7%C3%B5es+backend;Sempre+evoluindo+como+desenvolvedor" alt="Typing SVG" />
 
 </div>
 
@@ -90,7 +90,7 @@ Principais conceitos aplicados:
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=diegocbaleite&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=diegocbaleite&hide_border=true&background=212830&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
