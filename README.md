@@ -72,29 +72,6 @@ Principais conceitos aplicados:
 
 ---
 
-### 🤖 Pipeline de Recomendação com IA
-
-Pipeline de dados voltado para recomendação de conteúdos educacionais, utilizando bancos relacionais, NoSQL e busca vetorial.
-
-**Tecnologias:**
-
-`Python` • `PostgreSQL` • `MongoDB` • `pgvector` • `Docker` • `Apache Superset` • `Embeddings`
-
-O projeto possui:
-
-* Ingestão e tratamento de dados
-* PostgreSQL e MongoDB
-* Embeddings
-* Busca semântica
-* Recomendações personalizadas
-* Dashboard de métricas
-* Docker Compose
-* Testes automatizados
-
-🔗 [Ver projeto](https://github.com/diegocbaleite/desafio-03-pipeline-recomendacao)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -147,6 +124,10 @@ O projeto possui:
 
 <a href="https://github.com/diegocbaleite">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/diego-assuncao-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:dev.diegocba@gmail.com">
